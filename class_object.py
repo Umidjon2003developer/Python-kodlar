@@ -14,3 +14,4 @@ class Kompyuter:
         self.cpu=cpu
         
 macbook = Kompyuter('16gb','1tb','m2','m2')
+macbuk = Kompyuter('8gb','1tb','m2','m2')
